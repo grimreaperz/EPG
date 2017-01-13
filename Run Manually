@@ -1,0 +1,3 @@
+cd home/username/github/epg-updater
+
+python3 main.py
